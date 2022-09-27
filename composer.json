@@ -1,5 +1,5 @@
 {
-    "name": "coen-hyde/shanty-mongo",
+    "name": "guildlaunch/shanty-mongo",
     "description": "Shanty Mongo is a mongodb library for the Zend Framework.",
     "keywords": ["zend", "mongodb", "orm", "nosql"],
     "homepage": "https://github.com/coen-hyde/Shanty-Mongo",
